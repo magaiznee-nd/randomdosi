@@ -4,13 +4,12 @@ from suffle import airdrop
 
 
 
-def main(prmt):
-  airdrop(prmt)
+# def main():
+#   airdrop()
 
 
 
 
-
-  if __name__ == "__main__":
-    main(prmt)
+# if __name__ == "__main__":
+#     main()
 
