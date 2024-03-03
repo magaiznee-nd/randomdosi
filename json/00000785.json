@@ -1,0 +1,12 @@
+{
+    "responseTime": 1709451722483,
+    "statusCode": 1000,
+    "statusMessage": "Success",
+    "responseData": {
+        "name": "Booster \"Thunder\"",
+        "tokenId": "1000000100000785",
+        "meta": "{\"Sticker\":\"2\",\"Description\":\"Handle with care\",\"Brand\":\"Pararium\",\"Serial\":\"8\",\"Tier\":\"6\",\"Stamina\":\"11\",\"Speed\":\"12\",\"Luck\":\"18\",\"Strength\":\"24\"}",
+        "createdAt": 1707293549235,
+        "burnedAt": null
+    }
+}

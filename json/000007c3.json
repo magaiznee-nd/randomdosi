@@ -1,0 +1,12 @@
+{
+    "responseTime": 1709451700894,
+    "statusCode": 1000,
+    "statusMessage": "Success",
+    "responseData": {
+        "name": "Booster \"Thunder\"",
+        "tokenId": "10000001000007c3",
+        "meta": "{\"Sticker\":\"2\",\"Description\":\"Handle with care\",\"Brand\":\"Suphere\",\"Serial\":\"6\",\"Tier\":\"5\",\"Stamina\":\"36\",\"Speed\":\"42\",\"Luck\":\"33\",\"Strength\":\"43\"}",
+        "createdAt": 1707293549235,
+        "burnedAt": null
+    }
+}
